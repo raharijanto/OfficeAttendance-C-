@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.exe
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.deps.json
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.runtimeconfig.json
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.dll
+C:\Users\Asus\source\repos\Office\Office\bin\Debug\netcoreapp3.1\Office.pdb
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.dll
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.pdb
+C:\Users\Asus\source\repos\Office\Office\obj\Debug\netcoreapp3.1\Office.genruntimeconfig.cache
